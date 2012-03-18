@@ -4,13 +4,22 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://calderas.github.com/atom.xml" rel="self"/>
   <link href="http://calderas.github.com/"/>
-  <updated>2012-03-17T20:08:31-04:00</updated>
+  <updated>2012-03-17T20:25:57-04:00</updated>
   <id>http://calderas.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[calderas]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://calderas.github.com/blog/2012/03/17/hello-world/"/>
+    <updated>2012-03-17T20:10:00-04:00</updated>
+    <id>http://calderas.github.com/blog/2012/03/17/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
